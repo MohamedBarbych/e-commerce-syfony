@@ -30,10 +30,12 @@ Welcome to the **E-Commerce Website** repository! This project is a fully functi
 
 - **Backend**:  
   - PHP  
-  - Symfony  
+  - Symfony
+
 
 - **Database**:  
   - MySQL  
+  
 
 ---
 
