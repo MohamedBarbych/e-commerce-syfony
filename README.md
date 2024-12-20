@@ -13,7 +13,7 @@ Welcome to the **E-Commerce Website** repository! This project is a fully functi
 ### 🛒 Shopping Cart
 - Add items to your cart.
 - Update or remove items effortlessly.
-- View total costs in real time.
+- View total costs in real-time.
 
 ### 🔒 User Authentication
 - Secure user registration and login system.
